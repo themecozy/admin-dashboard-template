@@ -10,7 +10,8 @@ TEMU is the all-in-one solution that empowers you to build professional dashboar
   <a href="https://www.themecozy.com/item/temu-reactjs-nextjs-admin-dashboard-template/686d3dfc5144d429c3a55b4d">Buy Now</a>
 <span>
 </div>
-
+<br />
+  <img src="https://github.com/themecozy/admin-dashboard-template/blob/f7e8ad1512ead817efef00bdf0ff4813d58c893f/temu-thumb-mul.png" />
 ⭐ Key Features
 ✅ Developed with React.js and Next.js
 
